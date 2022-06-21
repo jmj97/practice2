@@ -16,7 +16,8 @@ temp/
 
 # ignore doc/notes.txt, but not doc/server/arch.txt
 *.txt
-
+t.txt
+a.txt
 # ignore all .pdf files in the doc/ directory and any of its subdirectories
 # /** matches 0 or more directories
 doc/**/*.pdf
